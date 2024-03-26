@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "jbarumby": "Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
